@@ -8,16 +8,12 @@
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
-<p align="justify">I am an enthusiastic programmer with a strong passion for technology and innovation. My journey is guided by an endless curiosity and a desire to explore new frontiers in programming. I thrive on solving intricate problems and constantly seek opportunities to challenge myself and elevate my skills to new heights. My interests includes:</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35" alt="Typing"/>
-</p>
-<p align="center">Currently learning -> Machine Learning</p>
-<p align="center">Currently working on -> Private Projects</p>
-<br>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Anshuman</h1>
+<h3 align="center">I'm passionate about technology and its potential to solve real-world problems. I'm proficient in various programming languages like Python, C++, and Java, and have experience in building software and Web applications. In addition to my technical skills, I possess strong collaboration and teamwork skills." My participation in hackathons and group projects have taught me how to work effectively in a team and deliver results under tight deadlines. I'm eager to learn and grow, and I'm excited to contribute my skills to innovative projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshuzz" alt="anshuzz" /></a> </p>
+
+- 📫 How to reach me **24anshuman2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,33 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuzz&show_icons=true&locale=en&layout=compact" alt="anshuzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuzz&show_icons=true&locale=en" alt="anshuzz" /></p>
-a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuzz&show_icons=true&locale=en&layout=compact" alt="anshuzz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuzz&show_icons=true&locale=en" alt="anshuzz" /></p>
-
-</tr>
-</table>
-<br>
-<h2 align="center">📕 Featured repositories:</h2>
-<div align="center">
-<a href="https://github.com/Vinayak-Sharma12/ThaparGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=ThaparGPT&theme=transparent" alt="GitHub Repo">
-</a>
-
-<a href="https://github.com/Vinayak-Sharma12/AgriCare-Plant-Disease-Detection-and-Prevention">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=AgriCare-Plant-Disease-Detection-and-Prevention&theme=transparent" alt="GitHub Repo">
-</a>
-<a href="https://github.com/Vinayak-Sharma12/Toxic-Comment-Classifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Toxic-Comment-Classifier&theme=transparent" alt="GitHub Repo">
-</a>
-<a href="https://github.com/Vinayak-Sharma12/Resume-Screening-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Resume-Screening-App&theme=transparent" alt="GitHub Repo">
-</a>
-<a href="https://github.com/Vinayak-Sharma12/BRAIN-TUMOR-DETECTION">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=BRAIN-TUMOR-DETECTION&theme=transparent" alt="GitHub Repo">
-</a>
-<a href="https://github.com/Vinayak-Sharma12/Data-Science">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=Data-Science&theme=transparent" alt="GitHub Repo">
-</a>
