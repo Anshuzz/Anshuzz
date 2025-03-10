@@ -6,7 +6,7 @@
   <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="300" height="auto" alt="Coding"/>
 </p>
 <h2 align="center"> About me:</h2>
-<h3 align="center">Passionate about leveraging technology to solve real-world problems. Proficient in Python, C++, and Java, with experience in software and web development. Strong team player with hackathon and project experience, delivering results under tight deadlines. Eager to learn, grow, and contribute to innovative projects.</h3>
+<h3 align="center">Passionate about technology, skilled in Python, C++, and Java, with experience in software and web development. Strong team player with hackathon and project experience, eager to learn and contribute to innovation.</h3>
 
 
 
