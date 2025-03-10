@@ -8,7 +8,6 @@
   <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
-<h1 align="center">Hi 👋, I'm Anshuman</h1>
 <h3 align="center">I'm passionate about technology and its potential to solve real-world problems. I'm proficient in various programming languages like Python, C++, and Java, and have experience in building software and Web applications. In addition to my technical skills, I possess strong collaboration and teamwork skills." My participation in hackathons and group projects have taught me how to work effectively in a team and deliver results under tight deadlines. I'm eager to learn and grow, and I'm excited to contribute my skills to innovative projects.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshuzz" alt="anshuzz" /></a> </p>
