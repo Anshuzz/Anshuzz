@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8a8d0878-0d8a-4064-8f88-7f731dbf6c70)<h1 align="center">Anshuman
+<h1 align="center">Anshuman
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Data+Science +Enthusiast;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/> 
 </p>
