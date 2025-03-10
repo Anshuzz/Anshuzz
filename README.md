@@ -1,9 +1,9 @@
-<h1 align="center">Anshuman
+![image](https://github.com/user-attachments/assets/8a8d0878-0d8a-4064-8f88-7f731dbf6c70)<h1 align="center">Anshuman
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Software+Engineer;Data+Science +Enthusiast;AI/ML+Enthusiast" width="auto" height="35" alt="Typing"/> 
 </p>
 <p align="center">
-  <img src="https://res.cloudinary.com/dry07iyvo/image/upload/v1735366890/coding_utrxxa.gif" width="300" height="auto" alt="Coding"/>
+  <img src="https://i.pinimg.com/originals/7a/c7/1e/7ac71e72373b0fb270b3a6d72e44eea3.gif" width="300" height="auto" alt="Coding"/>
 </p>
 <h2 align="center">👨🏻‍💻 About me:</h2>
 <h3 align="center">Passionate about leveraging technology to solve real-world problems. Proficient in Python, C++, and Java, with experience in software and web development. Strong team player with hackathon and project experience, delivering results under tight deadlines. Eager to learn, grow, and contribute to innovative projects.</h3>
