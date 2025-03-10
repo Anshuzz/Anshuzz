@@ -14,9 +14,8 @@
 <br>
 <h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
-<a href="https://github.com/Anshuzz/MovieLand">
-    <img src="https://github-stats-alpha.vercel.app/api/pin/?username=Anshuzz&repo=MovieLand&theme=dark" alt="GitHub Repo">
-</a>
+[![MovieLand](https://raw.githubusercontent.com/Anshuzz/MovieLand/main/assets/image.png)](https://github.com/Anshuzz/MovieLand)
+
 
 
 <a href="https://github.com/Vinayak-Sharma12/AgriCare-Plant-Disease-Detection-and-Prevention">
