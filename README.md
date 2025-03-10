@@ -17,6 +17,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anshuzz&show_icons=true&locale=en&layout=compact" alt="anshuzz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anshuzz&show_icons=true&locale=en" alt="anshuzz" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshuzz" alt="anshuzz" /></a> </p>
 <h2 align="center">🔗 Connect with me:</h2>
 
 <div align="center">
