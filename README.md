@@ -14,8 +14,8 @@
 <br>
 <h2 align="center">📕 Featured repositories:</h2>
 <div align="center">
-<a href="https://github.com/Vinayak-Sharma12/ThaparGPT">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vinayak-Sharma12&repo=ThaparGPT&theme=transparent" alt="GitHub Repo">
+<a href="https://github.com/Anshuzz/MovieLand">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Anshuzz&repo=MovieLand&theme=transparent" alt="GitHub Repo">
 </a>
 
 <a href="https://github.com/Vinayak-Sharma12/AgriCare-Plant-Disease-Detection-and-Prevention">
